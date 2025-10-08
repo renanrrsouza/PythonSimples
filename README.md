@@ -6,3 +6,6 @@ Aqui estou descrevendo e particionando meu primeiro github, ou seja, se tiver er
 def soma(a, b):
     return a + 
 
+
+vamos tentar de novo por aqui
+
